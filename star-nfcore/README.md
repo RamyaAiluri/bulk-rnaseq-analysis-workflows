@@ -14,3 +14,4 @@ The workflow is divided into two main steps:
 - `nextflow.config` – contains example computing resource settings
 
 The scripts use generic paths, file names, and computing settings. They can be modified for different bulk RNA-seq projects.
+
