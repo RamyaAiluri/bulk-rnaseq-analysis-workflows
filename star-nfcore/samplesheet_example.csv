@@ -1,0 +1,5 @@
+sample,fastq_1,fastq_2,strandedness
+control_rep1,/path/to/fastq/control_rep1_R1.fastq.gz,/path/to/fastq/control_rep1_R2.fastq.gz,auto
+control_rep2,/path/to/fastq/control_rep2_R1.fastq.gz,/path/to/fastq/control_rep2_R2.fastq.gz,auto
+treatment_rep1,/path/to/fastq/treatment_rep1_R1.fastq.gz,/path/to/fastq/treatment_rep1_R2.fastq.gz,auto
+treatment_rep2,/path/to/fastq/treatment_rep2_R1.fastq.gz,/path/to/fastq/treatment_rep2_R2.fastq.gz,auto
